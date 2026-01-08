@@ -1,5 +1,5 @@
 # IT-Portfolio
-## Level 3 IT Support Apprenticeship Candidate
+## Aspiring Level 3 IT Apprentice
 
 ### Technical Summary
 GCSE Computer Science foundation with self-taught skills in Python scripting, cybersecurity labs, and cloud basics. Kumon Assistant role (2022-2024) developed user support, troubleshooting, and data handling skills transferable to IT helpdesk.
