@@ -17,11 +17,24 @@ GCSE Computer Science foundation with self-taught skills in Python scripting, cy
 - Systems & data organisation
 - Analytical thinking
 
-### Projects
-- **Interactive Password Generator** (Python)  
-  Command-line tool for generating secure random passwords with user input. Applies security principles from Cisco module.  
-  [GitHub Repo Link]
+## Projects
 
-- **Offensive Security Intro Lab** (TryHackMe)  
-  Directory enumeration on simulated environment using Gobuster.  
-  [GitHub Repo Link]
+- **Python Password Generator** (2025)  
+  Interactive tool that asks for password length/number and generates strong random passwords using Python (random and string libraries). Shows basic scripting for security tasks.  
+  [View Repo]https://github.com/rameesah9-web/password-generator
+  
+- **TryHackMe Offensive Security Intro** (2025)  
+  Completed ethical hacking lab on FakeBank site – used Gobuster for directory enumeration to find hidden pages. Demonstrates cybersecurity basics from Cisco module.  
+  [View Repo] https://github.com/rameesah9-web/TryHackMe-Offensive-Security-Intro-FakeBank-Hack-
+  
+- **IT Troubleshooting Checklist** (2025)  
+  Simple documented list of common fixes (no internet, slow PC, etc.) – based on Wi-Fi troubleshooting experience and certs. Useful for IT support organisation.  
+  [View Repo]
+
+- **Google IT Support Notes** (In Progress 2026)  
+  Notes from Coursera Google IT Support Certificate (Course 1: Technical Support Fundamentals) – learning troubleshooting and customer service basics.  
+  [View Repo]https://github.com/rameesah9-web/Google-IT-Support-Notes
+
+- **AI and Engineering Workshop Notes** (2025)  
+  Summary of intro workshop on AI basics, machine learning examples, hands-on activities, and ethical use (bias, AI vs humans).  
+  [View Repo]https://github.com/rameesah9-web/Completed-AI-and-Engineering-Workshop
