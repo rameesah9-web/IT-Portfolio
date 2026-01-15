@@ -19,15 +19,15 @@ GCSE Computer Science foundation with self-taught skills in Python scripting, cy
 
 ## Projects
 
-- **Python Password Generator** (2025)  
+- **Python Password Generator** (2026)  
   Interactive tool that asks for password length/number and generates strong random passwords using Python (random and string libraries). Shows basic scripting for security tasks.  
   [View Repo]https://github.com/rameesah9-web/password-generator
   
-- **TryHackMe Offensive Security Intro** (2025)  
+- **TryHackMe Offensive Security Intro** (2026)  
   Completed ethical hacking lab on FakeBank site – used Gobuster for directory enumeration to find hidden pages. Demonstrates cybersecurity basics from Cisco module.  
   [View Repo] https://github.com/rameesah9-web/TryHackMe-Offensive-Security-Intro-FakeBank-Hack-
   
-- **IT Troubleshooting Checklist** (2025)  
+- **IT Troubleshooting Checklist** (2026)  
   Simple documented list of common fixes (no internet, slow PC, etc.) – based on Wi-Fi troubleshooting experience and certs. Useful for IT support organisation.  
   [View Repo]
 
@@ -35,6 +35,6 @@ GCSE Computer Science foundation with self-taught skills in Python scripting, cy
   Notes from Coursera Google IT Support Certificate (Course 1: Technical Support Fundamentals) – learning troubleshooting and customer service basics.  
   [View Repo]https://github.com/rameesah9-web/Google-IT-Support-Notes
 
-- **AI and Engineering Workshop Notes** (2025)  
+- **AI and Engineering Workshop Notes** ( end of 2025)  
   Summary of intro workshop on AI basics, machine learning examples, hands-on activities, and ethical use (bias, AI vs humans).  
   [View Repo]https://github.com/rameesah9-web/Completed-AI-and-Engineering-Workshop
